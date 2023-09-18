@@ -2,13 +2,20 @@
 
 |  Day  | Lost Focus                        | Total |
 |-------|-----------------------------------|-------|
-|  Day 1| ** *** ** **** **                 |   14  |
+|  Day 1|                 |   14  |
 |  Day 2|                                   |   11  |
 |  Day 3|                                   |   9   |
 |  Day 4|                                   |   8   |
 |  Day 5|                                   |   5   |
 
  
+| Day   | Lost Focus        | Total |
+|-------|-------------------|-------|
+| Day 1 |  | ||| | |||| | || | ||| || |   14  |
+| Day 2 | || | | ||| | || | ||| || |  11   |
+| Day 3 | || | | ||| | || | ||| |   9    |
+| Day 4 |  | | || | ||| | |||   |   8    |
+| Day 5 |  | ||| | |  | |    5  |
 
 1.
 Yes, I think my attention span increased over the three days.The first day was not as successful as I expected. This was the day I realized how difficult it is to pay attention and control our mind on one single aspect at once. Throughout the half an hour of the first day, I struggled a lot even to control my mind and stay focused for ten seconds. I could remember very few points from the news broadcast of the first-day activity, as the entire day was a struggle between keeping my mind calm and focused. To make this event a success and to get the maximum advantage out of this activity, I conducted some research on how I could improve my active listening skills. On the first day, I found out that greater comprehension should result from active listening, which calls for much more intense focus and empathy. Further, I found out that it is listening intently to what is being said to show complete acceptance and unbiased evaluation.
